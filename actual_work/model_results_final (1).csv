@@ -1,0 +1,8 @@
+model_name,model_type,accuracy,precision,recall,f1_score,mse,mae,r2_score
+Logistic Regression,Classification,0.925000,0.915213,0.925000,0.918685,nan,nan,nan
+SVM,Classification,0.937500,0.933458,0.937500,0.935107,nan,nan,nan
+k-NN,Classification,0.931250,0.924625,0.931250,0.927114,nan,nan,nan
+Naive Bayes,Classification,0.906250,0.929063,0.906250,0.915050,nan,nan,nan
+Linear Regression,Regression,nan,nan,nan,nan,0.007387,0.063250,0.886091
+Decision Tree,Regression,nan,nan,nan,nan,0.005340,0.057092,0.917649
+Random Forest,Regression,nan,nan,nan,nan,0.002958,0.042503,0.954381
